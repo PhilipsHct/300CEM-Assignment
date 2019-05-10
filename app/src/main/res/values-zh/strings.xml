@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">足跡紀錄</string>
+    <string name="menu_title">菜單</string>
+    <string name="menu_new">新足跡</string>
+    <string name="menu_exit">離開</string>
+    <string name="menu_back">返回</string>
+    <string name="btn_finish">完成</string>
+    <string name="btn_delete">刪除</string>
+    <string name="btn_record">紀錄</string>
+    <string name="btn_back">返回</string>
+    <string name="btn_newLocation">新位置</string>
+    <string name="btn_photo">選擇相片或拍照</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_save">儲存</string>
+    <string name="name">名稱:</string>
+    <string name="date">日期:</string>
+    <string name="content">內容:</string>
+    <string name="record">紀錄</string>
+    <string name="locationRecord">位置紀錄</string>
+    <string name="longitude">經度:</string>
+    <string name="latitude">緯度:</string>
+    <string name="time">時間:</string>
+    <string name="total_distance">總距離:</string>
+    <string name="total_count">總數:</string>
+    <string name="total_time">總時間:</string>
+    <string name="address">地址:</string>
+    <string name="noteHere">在此留字...</string>
+    <string name="recording">紀錄中...</string>
+</resources>

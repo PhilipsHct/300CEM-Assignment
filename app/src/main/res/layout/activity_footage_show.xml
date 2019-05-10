@@ -22,7 +22,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="22sp"
                 android:layout_weight="1"
-                android:text="Record count:"/>
+                android:text="@string/total_count"/>
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -40,7 +40,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="22sp"
                 android:layout_weight="1"
-                android:text="Total Distance:"/>
+                android:text="@string/total_distance"/>
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -58,7 +58,7 @@
                 android:layout_height="wrap_content"
                 android:textSize="22sp"
                 android:layout_weight="1"
-                android:text="Total Time:"/>
+                android:text="@string/total_time"/>
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"

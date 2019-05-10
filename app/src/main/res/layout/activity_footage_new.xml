@@ -65,7 +65,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:id="@+id/btn_newLocation"
-            android:text="New Location"/>
+            android:text="@string/btn_newLocation"/>
 
     </LinearLayout>
     <LinearLayout
@@ -79,14 +79,14 @@
             android:layout_height="wrap_content"
             android:background="#00FF00"
             android:layout_weight="1"
-            android:text="Record"
+            android:text="@string/record"
             android:id="@+id/btn_record"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#FF0000"
             android:layout_weight="1"
-            android:text="Cancel"
+            android:text="@string/btn_cancel"
             android:id="@+id/btn_cancel"/>
     </LinearLayout>
     <LinearLayout
@@ -101,7 +101,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Recording"
+            android:text="@string/recording"
             android:textAlignment="center"
             android:textColor="#FF0000"/>
     </LinearLayout>
@@ -117,14 +117,14 @@
             android:layout_height="wrap_content"
             android:background="#00FF00"
             android:layout_weight="1"
-            android:text="Finish"
+            android:text="@string/btn_finish"
             android:id="@+id/btn_finish"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#FF0000"
             android:layout_weight="1"
-            android:text="Delete"
+            android:text="@string/btn_delete"
             android:id="@+id/btn_delete"/>
     </LinearLayout>
 

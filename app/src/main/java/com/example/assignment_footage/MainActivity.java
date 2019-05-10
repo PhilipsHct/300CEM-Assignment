@@ -60,8 +60,6 @@ public class MainActivity extends AppCompatActivity {
                     Intent intent = new Intent(this, FootageNew.class);
                     startActivity(intent);
                 break;
-            case R.id.menu_about:
-                break;
             case R.id.menu_quit:
                 finish();
                 break;
