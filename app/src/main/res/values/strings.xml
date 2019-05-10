@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment_footage</string>
+    <string name="menu_title">Menu</string>
+    <string name="menu_new">New Footage</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_back">Back</string>
+</resources>
